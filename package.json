@@ -1,7 +1,9 @@
 {
     "dependencies": {
+        "3": "^2.1.0",
         "express": "^5.1.0",
-        "nodemon": "^3.1.10"
+        "nodemon": "^3.1.10",
+        "sqlite": "^5.1.1"
     },
     "name": "nova-pasta",
     "version": "1.0.0",
